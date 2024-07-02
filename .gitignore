@@ -1,0 +1,15 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos de log
+*.log
+
+# Diretório de dependências Python
+venv/
+
+# Arquivos de build
+build/
+
+# Arquivos de IDE
+.idea/
+*.iml
