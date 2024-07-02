@@ -1,6 +1,6 @@
 # TechGuardian Chatbot
 
-O TechGuardian é um chatbot inteligente desenvolvido para fornecer suporte eficiente aos procuradores estaduais no gerenciamento de processos. Utilizando tecnologias avançadas de IA, integração com banco de dados e hospedagem na nuvem, o chatbot oferece respostas rápidas e precisas para perguntas frequentes e encaminha usuários para suporte humano em casos complexos.
+O TechGuardian é um chatbot inteligente desenvolvido para fornecer suporte eficiente. Utilizando tecnologias avançadas de IA, integração com banco de dados e hospedagem na nuvem, o chatbot oferece respostas rápidas e precisas para perguntas frequentes e encaminha usuários para suporte humano em casos complexos.
 
 ## Funcionalidades Principais
 
@@ -16,7 +16,7 @@ O TechGuardian é um chatbot inteligente desenvolvido para fornecer suporte efic
 
 - Python 3.x
 - Flask (ou outra framework de sua escolha)
-- Banco de dados (por exemplo, SQLite)
+- Banco de dados (Mongo)
 
 ### Instalação
 
